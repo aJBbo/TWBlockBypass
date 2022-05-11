@@ -1,0 +1,9 @@
+Package: ajbbodev.twitterblocker
+Name: TWBlock Bypass
+Version: 2.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: aJBboCydia
+Author: aJBboCydia
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
